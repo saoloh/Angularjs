@@ -1,1 +1,1 @@
-# AngularJs
+# beginner angularjs apps
